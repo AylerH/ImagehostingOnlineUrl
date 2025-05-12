@@ -11,7 +11,23 @@ SM.MS V2 v2.3.0-beta.0
 阿里云 OSS v1.6.0
 Imgur v1.6.0
 ```
-# 使用方法
+# picgo使用github作为默认图床-使用方法
+## 获取github token
+## 在 GitHub 上获取 Personal Access Token (PAT) 
+
+在 GitHub 上获取 **Personal Access Token (PAT)** 的步骤如下：
+
+------
+
+### **1. 登录 GitHub 账户**
+
+- 访问 [GitHub 官网](https://github.com) 并登录你的账户。
+
+### **2. 进入 Token 设置页面**
+
+- 点击右上角头像 → **Settings** → 左侧菜单栏选择 **Developer settings** → **Personal access tokens** → **Tokens (classic)**。
+
+
 ## 安装 PicGo后
 
 方法
